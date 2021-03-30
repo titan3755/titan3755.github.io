@@ -117,3 +117,6 @@ transition-duration: 500ms;
     position: relative; top: 1000px;
 
 }
+.cont1{
+    position: sticky;
+}
